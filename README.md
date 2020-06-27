@@ -1,5 +1,6 @@
 # APPL_SOLID_Exercises
 Latihan prinsip SOLID dalam pemrograman OOP
+Oleh: Naufal Rajabi -- 181524025 -- 2A-D4
 
 Solusi latihan tersedia dalam bahasa Java. Latihan dimaksudkan untuk menguatkan prinsip SOLID pada saat melakukan pemrograman. Berikut adalah Prinsip SOLID yang diterapkan sesuai dengan instruksi pada laman https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/C%23Fundamentals/OOP-Advanced/Exercises/SOLID-Lab.
 
